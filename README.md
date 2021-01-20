@@ -4,8 +4,7 @@ This project is meant to give a fast starter project using the ESP-IDF framework
 
 ## Getting Started
 
-`git clone https://github.com/royyandzakiy/espidf-arduino-bareminimum`
-
-`cd espidf-arduino-bareminimum`
-
-`git submodule update --init --recursive`
+- Clone the repository `git clone https://github.com/royyandzakiy/espidf-arduino-bareminimum`
+- Go into the downloaded/cloned repo folder `cd espidf-arduino-bareminimum`
+- Download submodules `git submodule update --init --recursive`
+- Start exploring!
