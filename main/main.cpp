@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include "basic_test.h"
 
 void setup() {
     Serial.begin(115200);
@@ -6,10 +7,5 @@ void setup() {
 }
 
 void loop() {
-    // nothing...
-}
-
-extern "C" void app_main() {
-    setup();
-    while(1) loop();
+    basic_high_low();
 }
