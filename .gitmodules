@@ -4,8 +4,3 @@
 #
 # to remove submodules, use this command:
 #	git submodule remove <name of folder>
-
-[submodule "components/arduino-esp32"]
-	path = components/arduino-esp32
-	url = https://github.com/espressif/arduino-esp32
-	branch = idf-release/v4.0
