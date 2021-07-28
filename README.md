@@ -5,6 +5,6 @@ This project is meant to test the usage of [NimBLE](https://github.com/h2zero/es
 ## Getting Started
 
 - Clone the repository `git clone https://github.com/royyandzakiy/nimble-try.git`
-- Go into the downloaded/cloned repo folder `cd espidf-arduino-bareminimum`
+- Go into the downloaded/cloned repo folder `cd nimble-try`
 - Download submodules `git submodule update --init --recursive`
 - Start exploring!
