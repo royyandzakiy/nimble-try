@@ -9,4 +9,8 @@
 !.vscode/extensions.json
 *.code-workspace
 
+.vscode/*
+build/*
+components/esp-nimble-cpp/*
+
 # End of https://www.toptal.com/developers/gitignore/api/vscode
