@@ -4,3 +4,6 @@
 #
 # to remove submodules, use this command:
 #	git submodule remove <name of folder>
+[submodule "components/esp-nimble-cpp"]
+	path = components/esp-nimble-cpp
+	url = https://github.com/h2zero/esp-nimble-cpp
