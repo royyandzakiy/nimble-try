@@ -1,6 +1,6 @@
 set(COMPONENT_SRCS
     "main.cpp"
-    "start-arduino.cpp"
+    "mainStarter.cpp"
 )
 
 set(COMPONENT_ADD_INCLUDEDIRS
